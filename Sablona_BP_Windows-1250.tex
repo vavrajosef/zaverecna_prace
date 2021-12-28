@@ -31,13 +31,13 @@
 % ODTUD DAL VSE ZMENTE
 % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % 
 
-\department{Katedra \ldots (DOPLÒTE)}
+\department{Katedra softwarového inženýrství}
 \title{Konfiguraèní management microservice}
 \authorGN{Josef} %(køestní) jméno (jména) autora
 \authorFN{Vávra} %pøíjmení autora
 \authorWithDegrees{Josef Vávra} %jméno autora vèetnì souèasných akademických titulù
 \author{Josef Vávra} %jméno autora bez akademických titulù
-\supervisor{Doplòte jméno vedoucího práce}
+\supervisor{Martin Komárek}
 \acknowledgements{Doplòte, máte-li komu a za co dìkovat. V~opaèném pøípadì úplnì odstraòte tento pøíkaz.}
 \abstractCS{V~nìkolika vìtách shròte obsah a pøínos této práce v~èeštinì. Po pøeètení abstraktu by se ètenáø mìl mít ètenáø dost informací pro rozhodnutí, zda chce Vaši práci èíst.}
 \abstractEN{Sem doplòte ekvivalent abstraktu Vaší práce v~angliètinì.}
@@ -53,6 +53,20 @@
 % \newacronym{FIT}{FIT}{Fakulta informa{\v c}n{\' i}ch technologi{\' i}}
 
 \begin{introduction}
+	
+I ve svìtì poèítaèù se vzhlíží k urèitým módním smìrùm, které se s neurèitou pravidelností mìní. Se vzrùstajícím výkonem hardware komponent IT svìta je evoluce v nehmatatelné oblasti naprosto nezbytná. Jak tyto zmìny dovedou s virtuálním svìtem zahýbat nám už ukázala napøíklad cloud technologie. Kromì konkrétních technologických a nebo hmatatelných zmìn se ale vyvíjí i metodické procesy vývoje aplikací. Stejnì jako se do IT pravìku dostal waterfall pøístup a nahradil ho pøístup agilní, jsou monolitické aplikace nahrazovány microservice architekturou. Touto architekturou se chci ve svojí práci zabývat.
+
+Bohužel zatím neexistuje jednotný pøístup k vývoji aplikace, který by byl sám o sobì bez slabých míst. V tomto textu chci popsat problematiku jednoho z tìchto míst, kterým je konfiguraèní management. Proè se vlastnì jedná o slabé místo? Rád bych rozebral pøístup s jakým pøistupovat ke konfiguraènímu managementu v cloud native prostøedí. Nedílnou souèástí jsou konfiguraèní parametry a proto je nutné vysvìtlit jak s nimi zacházet. Jako vlastník aplikace budeme chtít omezit pøístup veøejnosti, vèetnì vývojáøù, k nìkterým parametrùm. Pokusím se nastínit práci s tìmito tajnými informacemi.
+
+Konfiguraèní management byla v minulosti zodpovìdnost systémových adimistrátorù, kteøí k ní pøistupovali manuálnì. S nástupem DevOps se však toto zmìnilo. Velké množství manuální práce znamená mnoho pøíležitostí zpùsobit chybu. Lidské chybì se dá zabránit automatizací procesu, a proto už tato disciplína není praktikována manuálnì.
+
+Mým cílem je vytvoøit funkèní prototyp aplikace, která využívá konfiguraèního managementu, vyjmout tak moji práci z èistì teoretické roviny a pomoci lépe demonstrovat jednotlivé myšlenky, které budu zpracovávat.
+
+Život komplexní aplikace v komerèním svìtì se neskládá pouze z vývoje a následného nasazení. Aplikace musí projít fázi testování, které mùže být rozdìleno na integraèní a zátìžové. Také musí být aplikace akceptována. Provádìní tìchto úkonù pouze v jednom prostøedí je nemyslitelné. Každý proces musí tedy mít vlastní prostøedí, které se musí co nejvíce podobat všem ostatním. Ve svém prototypu chci pøedvést jak konfiguraèní management uchopuje problém více prostøedí.
+
+V závìru práce bych rád popsal k èemu slouží nástroje které danou problematiku výraznì ulehèují a nìkteré z nich porovnal.
+
+
 1) Popsat best practices konfiguraèního managementu v cloud native prostøedí a jak používat konfiguraèní parametry v aplikacích.
 2) Popsat jak obecnì pracovat se secrets, jak je ukládat a jaké jsou možnosti jejich šifrování.
 3) Vytvoøit prototyp aplikace, ve které bude konfiguraèní management použit.
@@ -60,6 +74,8 @@
 5) Zhodnotit výsledek práce, porovnat možné užití nástrojù pro konfiguraèní management.
 
 Proè jsem si tuhle práci vybral?
+
+
 Tento námìt práce jsem si vybral proto, jelikož se už dlouhou dobu pohybuji v korporátním svìtì, kde je komplexní sturktura nedílnou souèástí. Nezøídka kdy se stává že je ... (dopsat) ... A zde pøíchází na øadu konfigraèní management. Kolik dovede ušetøit vlastnì práce a je pak dodávání softwaru ménì problémové? 
 
 Cíl práce.

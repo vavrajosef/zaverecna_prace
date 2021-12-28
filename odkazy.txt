@@ -1,0 +1,5 @@
+https://towardsdatascience.com/who-said-that-monolithic-applications-are-dead-2a4b9e3ac56d
+https://www.deployhub.com/microservice-configuration-management/
+https://solace.com/blog/microservices-advantages-and-disadvantages/
+https://www.plutora.com/blog/configuration-management
+https://datasemantics.co/automation-trends-to-expect-in-2021/

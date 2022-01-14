@@ -1,3 +1,7 @@
+https://www.upguard.com/blog/5-configuration-management-boss
+Prvni odstavec uvodu je odtud.
+
+
 https://towardsdatascience.com/who-said-that-monolithic-applications-are-dead-2a4b9e3ac56d
 https://www.deployhub.com/microservice-configuration-management/
 https://solace.com/blog/microservices-advantages-and-disadvantages/

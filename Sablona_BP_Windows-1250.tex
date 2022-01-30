@@ -71,13 +71,21 @@ Azadeh Jahanbanifar ve své práci z roku 2016 prezentuje framework založený na mo
 
 Práce, jejímž autorem je JOHAN KRISTENSSON, vznikla také v roce 2016 a zajímá se o optimalizaci procesu. Sleduje jak se zlepšuje kvalita práce po zavedení CM v organizaci.
 
-
-
-
+Moje práce se bude zabývat pøevážnì praktickou èástí konfiguraèního managementu mikroslužeb.
 Mikroslužba je architektonický návrh pro vytváøení distribuované aplikace.
 Tato architektura umožòuje rychlé, èásté a spolehlivé dodávky zmìn v softwaru. Kromì toho také mùže každá služba škálovat nebo být aktualizována bez pøerušení ostatních služeb. 
+Ke svojí práci budu potøebovat aplikaci, složenou z nìkolika mikroslužeb. Bude se jednat o eshop, který bude pøipojen na databázi. Cílem samotné práce pak bude pøedvést jak migrovat celou aplikaci z lokálního prostøedí, pøes vývojové, akceptaèní a nakonec produkèní. K této úloze budu využívat hned nìkolik nástrojù.
+Mikroslužby budou napsané v javì za pomoci Spring frameworku. Tent framework jsem zvolil, protože s ním mám nejvíce zkušeností.
+Dále jsem za scou databázi zvolil mongoDB. Rozhodl jsem se na základì tìchto èlánkù:
+https://www.integrate.io/blog/which-database/ zde jsou vyzdviženy vlastnosti jako je vysoká flexibilita a dobrá spolupráce s webovými aplikacemi
 
---- zde doplnit text o cloud native prostredi ---
+https://www.mongodb.com/what-is-mongodb/features mongodb podporuje loadbalancování ve velkém mìøítku, což je vlastnost která bude v vzhledme k povaze práce dùležitá
+
+Svou práci budu vyvýjet nad kontejnery, které mi výraznì ulehèí posuny mezi prostøedími.
+Kontejner je soubor kódu a jeho závislostí zabalen v lightweight prostøedí, které umožòuje umlèet veškeré okolní negativní vlivy na jeho chod.
+V tomto smìru mám zkušenosti pouze s technologií docker, která je však zároveò nejrozšíøejenìjší. Ze stejného dùvodu si vybítám orchestraèní nástroj kubernetes, který má za úkol øízení kontejnerù.
+
+
 
 Ve svojí práci rozeberu pøístup s jakým pøistupovat ke konfiguraènímu managementu v cloud native prostøedí. Nedílnou souèástí jsou konfiguraèní parametry a proto je nutné vysvìtlit jak s nimi zacházet. Jako vlastník aplikace budeme chtít omezit pøístup veøejnosti, vèetnì vývojáøù, k nìkterým parametrùm. Pokusím se nastínit práci s tìmito tajnými informacemi.
 

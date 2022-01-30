@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2021.12.13)  30 JAN 2022 17:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2021.12.13)  30 JAN 2022 19:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -847,13 +847,7 @@ been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.91 
-      [2]
-Overfull \hbox (18.20511pt too wide) in paragraph at lines 94--95
-\OT1/lmr/m/n/10.95 rozdeleno na in-te-gracn a zatezove. Take mus by
-t apli-kace ak-cep-tovana. Provaden
- []
-
-[3] [4
+      [2] [3] [4
 
 ] [5] [6
 
@@ -861,7 +855,8 @@ t apli-kace ak-cep-tovana. Provaden
 
 ] [9] [10
 
-] (Sablona_BP_Windows-1250.bbl [11] [12
+] (Sablona_BP_Windows-1250.bbl
+[11] [12
 
 ]
 bibitemlist
@@ -874,7 +869,7 @@ LaTeX Warning: Empty `thebibliography' environment on input line 11.
 
 ]
 LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 
-244.
+241.
  (D:\Programs\miktex\tex/latex/lm\ot1lmtt.fd
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -882,7 +877,7 @@ File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 Class memoir Warning: The material used in the headers is too large
 (14.68782pt) for the given head height (13.6pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 247.
+(in both cases you will find help in the memoir manual). on input line 244.
 
 [17]
 \tf@toc=\write5
@@ -900,10 +895,10 @@ Package rerunfilecheck Info: File `Sablona_BP_Windows-1250.out' has not changed
 (rerunfilecheck)             Checksum: 4598A8353195A8EA94D54FFAACD89326;886.
  ) 
 Here is how much of TeX's memory you used:
- 13075 strings out of 479000
- 192595 string characters out of 2864784
+ 13074 strings out of 479000
+ 192587 string characters out of 2864784
  565173 words of memory out of 3000000
- 30587 multiletter control sequences out of 15000+600000
+ 30586 multiletter control sequences out of 15000+600000
  458685 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,11n,80p,1789b,405s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -917,7 +912,7 @@ rograms/miktex/fonts/type1/public/lm/lmr12.pfb><D:/Programs/miktex/fonts/type1/
 public/lm/lmr8.pfb><D:/Programs/miktex/fonts/type1/public/lm/lmri10.pfb><D:/Pro
 grams/miktex/fonts/type1/public/lm/lmssbx10.pfb><D:/Programs/miktex/fonts/type1
 /public/lm/lmtt10.pfb>
-Output written on Sablona_BP_Windows-1250.pdf (31 pages, 275479 bytes).
+Output written on Sablona_BP_Windows-1250.pdf (31 pages, 274766 bytes).
 PDF statistics:
  241 PDF objects out of 1000 (max. 8388607)
  44 named destinations out of 1000 (max. 500000)

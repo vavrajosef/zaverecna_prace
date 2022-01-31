@@ -54,7 +54,7 @@
 
 \begin{introduction}
 
-Konfiguraèní management(CM) je efektivní strategie urèená ke stanovení a udrování konzistence vıkonu, funkèních a fyzickıch atributù produktu s jeho designem,  poadavky a provozními informacemi po celou dobu jeho ivotnosti. Úkony pùvodnì zavedené americkou armádou jsou dnes rozšíøeny do mnoha rozlišnıch odvìtví. Jedním z tìchto odvìtví jsou informaèní technologie. CM je definován v IT Infrastructure Library (ITIL). Jedná se o proces, kterı stopuje jednotlivé konfiguraèní poloky(CI). To mohou bıt jednotlivé servery, nebo komplexní clustery v korporátním prostøedí obøích rozmìrù. Samotná implementace je pak dosaena a pomocí rùznıch nástrojù. CM indentifikuje systémy, které potøebují záplatu, aktualizaci nebo rekonfiguraci, aby se dostaly do poadovaného stavu. Manuální úpravy velkıch systémù mohou bıt velmi nároèné. Tyto úpravy mohou byadovat aktualizaci a mnoha stovek systémù. Pokud tento proces není zautomatizovanı, organizace, která ho má na starost rychle ztratí pøehled o zmìnách které u probìhly a tìch, které je teprve nutné vykonat. To vede k prostojùm, nepøístupnosti, nestabilitì systému nebo k celkovému selhání. CM definuje automatizaci, která zaruèuje konzistenci. Ta je nezbytná pøi dodávání kvalitních slueb. CM pomáhá zabránit nezdokumentovanım zmìnám, které mohou zpùsobit nesprávnì nakonfigurovanı systém. Kdy dojde k selhání a následné nefunkènosti, témìø vdy se jedná o ztrátu zisku. Tento problém nemusí mít jednoznaèné øešení, které by byl jednotlivec schopnı vyøešit v èase, kterı je pro firmu pøijatelnı. CM tedy podle pøedem danıch definic dovede chybnı systém nahradit novım znovu vytvoøenım. Zreplikované systémy pak umoòují škálování sluby a rozdistribuovat zátì, tak aby nedocházelo vıpadkùm.
+Konfiguraèní management(CM) je efektivní strategie urèená ke stanovení a udrování konzistence vıkonu, funkèních a fyzickıch atributù produktu s jeho designem,  poadavky a provozními informacemi po celou dobu jeho ivotnosti. Úkony pùvodnì zavedené americkou armádou jsou dnes rozšíøeny do mnoha rozlišnıch odvìtví. Jedním z tìchto odvìtví jsou informaèní technologie. CM je definován v IT Infrastructure Library (ITIL). Jedná se o proces, kterı stopuje jednotlivé konfiguraèní poloky(CI). To mohou bıt jednotlivé servery, nebo komplexní clustery v korporátním prostøedí obøích rozmìrù. Samotná implementace je pak dosaena a pomocí rùznıch nástrojù. CM indentifikuje systémy, které potøebují záplatu, aktualizaci nebo rekonfiguraci a zajistí, aby se dostaly do poadovaného stavu. Manuální úpravy velkıch systémù mohou bıt velmi nároèné. Tyto úpravy mohou vyadovat aktualizaci a mnoha stovek systémù. Pokud tento proces není zautomatizovanı, organizace, která ho má na starost rychle ztratí pøehled o zmìnách které u probìhly a tìch, které je teprve nutné vykonat. To vede k prostojùm, nepøístupnosti, nestabilitì systému nebo k celkovému selhání. CM definuje automatizaci, která zaruèuje konzistenci. Ta je nezbytná pøi dodávání kvalitních slueb. CM pomáhá zabránit nezdokumentovanım zmìnám, které mohou zpùsobit, e je systém nesprávnì nakonfigurovanı. Kdy dojde k selhání a následné nefunkènosti, témìø vdy se jedná o ztrátu zisku. Tento problém nemusí mít jednoznaèné øešení, které by byl jednotlivec schopnı vyøešit v èase, kterı je pro firmu pøijatelnı. CM tedy podle pøedem danıch definic dovede chybnı systém nahradit novım znovu vytvoøenım. Zreplikované systémy pak umoòují škálování sluby a rozdistribuovat zátì, tak aby nedocházelo vıpadkùm.
 Konfiguraèním managemenetem se u zabıvalo nìkolik prací.
 
 V roce 2009 na VŠE vznikla práce s názvem Konfiguraèní management. Jejím autorem je Robert Pelikán. Práce se zabıvá analızou komponent CM a zamìøuje se spíš na rozhodovací proces pro firmy, které se snaí vyhodnotit zda je CM pro jejich podnikání správnou cestou. V dobì práce se konfiguraèní management ukládal ještì do CMDB.
@@ -71,19 +71,36 @@ Azadeh Jahanbanifar ve své práci z roku 2016 prezentuje framework zaloenı na mo
 
 Práce, jejím autorem je JOHAN KRISTENSSON, vznikla také v roce 2016 a zajímá se o optimalizaci procesu. Sleduje jak se zlepšuje kvalita práce po zavedení CM v organizaci.
 
+Tyto práce se zabıvají od této práce odlišnou èástí konfiguraèního managementu.
+
 Moje práce se bude zabıvat pøevánì praktickou èástí konfiguraèního managementu mikroslueb.
 Mikrosluba je architektonickı návrh pro vytváøení distribuované aplikace.
 Tato architektura umoòuje rychlé, èásté a spolehlivé dodávky zmìn v softwaru. Kromì toho také mùe kadá sluba škálovat nebo bıt aktualizována bez pøerušení ostatních slueb. 
 Ke svojí práci budu potøebovat aplikaci, sloenou z nìkolika mikroslueb. Bude se jednat o eshop, kterı bude pøipojen na databázi. Cílem samotné práce pak bude pøedvést jak migrovat celou aplikaci z lokálního prostøedí, pøes vıvojové, akceptaèní a nakonec produkèní. K této úloze budu vyuívat hned nìkolik nástrojù.
-Mikrosluby budou napsané v javì za pomoci Spring frameworku. Tent framework jsem zvolil, protoe s ním mám nejvíce zkušeností.
-Dále jsem za scou databázi zvolil mongoDB. Rozhodl jsem se na základì tìchto èlánkù:
-https://www.integrate.io/blog/which-database/ zde jsou vyzdvieny vlastnosti jako je vysoká flexibilita a dobrá spolupráce s webovımi aplikacemi
+Mikrosluby budou napsané v javì za pomoci Spring frameworku. Tento framework jsem zvolil, protoe s ním mám nejvíce zkušeností.
 
-https://www.mongodb.com/what-is-mongodb/features mongodb podporuje loadbalancování ve velkém mìøítku, co je vlastnost která bude v vzhledme k povaze práce dùleitá
+Dále jsem za scou databázi zvolil mongoDB. Rozhodl jsem se na základì tìchto èlánkù:
+
+https://www.integrate.io/blog/which-database/
+
+zde jsou vyzdvieny vlastnosti jako je vysoká flexibilita a dobrá spolupráce s webovımi aplikacemi
+
+MongoDB má dobrou dokumentaci, take pøi práci budu èerpat hlavnì z ní.
+
+https://www.mongodb.com/what-is-mongodb/features
+
+Mongodb podporuje loadbalancování ve velkém mìøítku, co je vlastnost která bude v vzhledme k povaze práce dùleitá
 
 Svou práci budu vyvıjet nad kontejnery, které mi vıraznì ulehèí posuny mezi prostøedími.
+
 Kontejner je soubor kódu a jeho závislostí zabalen v lightweight prostøedí, které umoòuje umlèet veškeré okolní negativní vlivy na jeho chod.
-V tomto smìru mám zkušenosti pouze s technologií docker, která je však zároveò nejrozšíøejenìjší. Ze stejného dùvodu si vybítám orchestraèní nástroj kubernetes, kterı má za úkol øízení kontejnerù.
+V tomto smìru mám zkušenosti pouze s technologií docker, která je však zároveò nejrozšíøejenìjší.
+
+Ze stejného dùvodu si vybírám orchestraèní nástroj kubernetes, kterı má za úkol øízení kontejnerù.
+
+Dokumentace dockeru nemá pøíliš dobrou reputaci. Urèitì se na ní budu pøi práci odkazovat, ale nìkteré detaily budu dohledávat jinde, napøíklad na https://docker-curriculum.com/
+
+Dokumentace kubernetes je ve stavu, kterı je dostateènı pro úspìšnou implementaci této práce.
 
 Na téma kubernetes bylo také napsáno nìkolik prací. Kadá z nich však proniká(stejnì jako vıše zmínìné práce) do této práce jen minimálnì.
 
@@ -91,6 +108,42 @@ Práce s názvem Kubernetes as an Availability Manager for Microservice Based Appl
 
 Další je Analyzing the Applicability of Kubernetes for the Deployment of an IoT Publish/Subscribe System od Maryam Tavakkoli se zase zabıvá pouze IoT svìtem.
 
+O dockeru byly napsány ve svìtì tyto práce, které podle mì stojí za zmínku.
+
+Virtualization using Docker Platform od Vladimíra Jurenka je práce z Masarykovy univerzity, která se zabıvá spíše virtualizací jako takovou. Docker je pak zkoumán jako nástroj, nikoliv pouit jako prostøedek.
+
+SOFTWARE CONTAINERIZATION WITH DOCKER od Rubén Cayetano Díaz Alonso z Turku Univerzity je spíše o prozkoumávání virtualizace a porovnávání nástrojù, které ji umoòují.
+
+Práce Dominika Víška z Pardubické Univerzity s názvem Vyuití technologie Docker pro virtualizaci vıvojového prostøedí PHP / Python opìt porovnává virtualizaèní nástroje a následnì navrhuje virtualizované vıvojové prostøedí.
+
+ádná z nich se svım obsahem nepøibliuje k této práci jinak ne pouitím stejnıch nástrojù.
+
+Proces posouvání aplikace po prostøedích se neobejde bez automatizace. K tomuto úkonu existuje hned nìkolik nástrojù. Jsou jimi napøíklad Chef, Puppet nebo Ansible. Nástrojù je více, ale já se rozhodoval hlavnì mezi tìmito.
+Ve své práci budu pracovat s Ansible. Narozdíl od ostatních nevyaduje znalost Ruby. Jeho scripty jsou psané v JSON, co mi znaènì ulehèí práci. 
+
+Pøi vybírání mi pomohli tyto èlánky:
+
+https://www.simplilearn.com/configuration-management-tools-article
+
+https://opensource.com/resources/what-ansible
+
+https://www.devopsgroup.com/blog/puppet-vs-ansible/
+
+https://www.simplilearn.com/ansible-vs-chef-differences-article
+
+O Ansible vznikla na ÈVUT práce Automatizace konfigurace síovıch prvkù pomocí Ansible od Miroslava Hudece, která zkoumá jak nakonfigurovat síové zaøízení MikroTik.
+
+Docker je populární téma závìreènıch prací na ÈVUT, a proto jich tu vzniklo hned nìkolik.
+
+Práce Application of containers in continuous software development od Le Henrich byla stvoøena na FITu. Jedná se o práci, která se zamìøila na psaní pipeline.
+
+Práce s názvem Zajištìní škálovatelnosti webovıch aplikací s vyuitím architektury mikroslueb od Lukáše Hamrly z FITu se v nìkterıch ohledech této práci podobá. Práce má však za úkol rozebrání škálovatelnosti aplikací. V pozdìjších kapitolách se vìnuje zkoumání dockeru.
+
+Další prací je Continuous Integration and Continuous Delivery of addictologic web application od Jany Èikelové. Tato práce je zamìøena zejména na monitoring a provoz aplikaci pøi vysokıch zátìích. 
+
+Adam Stanìk vytvoøil práci Systém pro automatizaci nasazování aplikací. Je v ní popsán agilní pøístup a nakonec naimplementován CI systém.
+
+ádná z tìchto prací se nijak vıznamnım zpùsobem nepøekrıvá s cílem této práce.
 
 
 \end{introduction}

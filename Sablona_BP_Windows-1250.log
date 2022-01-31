@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2021.12.13)  30 JAN 2022 19:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2021.12.13)  31 JAN 2022 01:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -821,22 +821,10 @@ tuje fra-mework zalozeny
  []
 
 
-Overfull \hbox (3.6348pt too wide) in paragraph at lines 74--81
-\OT1/lmr/m/n/10.95 https://www.integrate.io/blog/which-database/ zde jsou vy-zd
-vizeny vlast-nosti
- []
-
-
-Overfull \hbox (1.68889pt too wide) in paragraph at lines 82--83
-\OT1/lmr/m/n/10.95 ruje lo-adba-lan-covan ve velkem mertku, coz je vla
-st-nost ktera bude v vzhledme
- []
-
-
 Class memoir Warning: The material used in the headers is too large
 (14.68782pt) for the given head height (13.6pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 91.
+(in both cases you will find help in the memoir manual). on input line 98.
 
 
 Overfull \vbox (1.08781pt too high) has occurred while \output is active []
@@ -846,17 +834,20 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.91 
-      [2] [3] [4
+l.98 
+      [2] [3]
+Overfull \vbox (1.08781pt too high) has occurred while \output is active []
 
-] [5] [6
+
+[4] [5
+
+] [6
 
 ] [7] [8
 
 ] [9] [10
 
-] (Sablona_BP_Windows-1250.bbl
-[11] [12
+] (Sablona_BP_Windows-1250.bbl [11] [12
 
 ]
 bibitemlist
@@ -869,7 +860,7 @@ LaTeX Warning: Empty `thebibliography' environment on input line 11.
 
 ]
 LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 
-241.
+294.
  (D:\Programs\miktex\tex/latex/lm\ot1lmtt.fd
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -877,7 +868,7 @@ File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 Class memoir Warning: The material used in the headers is too large
 (14.68782pt) for the given head height (13.6pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 244.
+(in both cases you will find help in the memoir manual). on input line 297.
 
 [17]
 \tf@toc=\write5
@@ -895,13 +886,13 @@ Package rerunfilecheck Info: File `Sablona_BP_Windows-1250.out' has not changed
 (rerunfilecheck)             Checksum: 4598A8353195A8EA94D54FFAACD89326;886.
  ) 
 Here is how much of TeX's memory you used:
- 13074 strings out of 479000
- 192587 string characters out of 2864784
- 565173 words of memory out of 3000000
- 30586 multiletter control sequences out of 15000+600000
+ 13075 strings out of 479000
+ 192595 string characters out of 2864784
+ 563173 words of memory out of 3000000
+ 30587 multiletter control sequences out of 15000+600000
  458685 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,11n,80p,1789b,405s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,11n,80p,1806b,407s stack positions out of 5000i,500n,10000p,200000b,80000s
 {D:/Programs/miktex/fonts/enc/dvips/lm/lm-rm.enc}{D:/Programs/miktex/fonts/en
 c/dvips/lm/lm-rmtt.enc}{D:/Programs/miktex/fonts/enc/dvips/lm/lm-rmsc.enc}{D:/P
 rograms/miktex/fonts/enc/dvips/lm/lm-ts1.enc}<D:/Programs/miktex/fonts/type1/pu
@@ -912,7 +903,7 @@ rograms/miktex/fonts/type1/public/lm/lmr12.pfb><D:/Programs/miktex/fonts/type1/
 public/lm/lmr8.pfb><D:/Programs/miktex/fonts/type1/public/lm/lmri10.pfb><D:/Pro
 grams/miktex/fonts/type1/public/lm/lmssbx10.pfb><D:/Programs/miktex/fonts/type1
 /public/lm/lmtt10.pfb>
-Output written on Sablona_BP_Windows-1250.pdf (31 pages, 274766 bytes).
+Output written on Sablona_BP_Windows-1250.pdf (31 pages, 278817 bytes).
 PDF statistics:
  241 PDF objects out of 1000 (max. 8388607)
  44 named destinations out of 1000 (max. 500000)

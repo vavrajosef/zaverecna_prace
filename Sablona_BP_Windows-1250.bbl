@@ -1,4 +1,4 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{1}
 \providecommand{\biburl}[1]{\url{#1}}
 \providecommand{\urlprefix}{Dostupn{\' e} z: }
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -7,5 +7,37 @@
   \urlstyle{rm}\Url}\fi
 \providecommand{\selectlanguage}[1]{\relax}
 \providecommand{\eprint}[2][]{\biburl{#2}}
+
+\bibitem{12-factor-config}
+The twelve-factor app. 2017.
+\urlprefix\biburl{https://12factor.net/cs/config}
+
+\bibitem{uvod-do-gitops}
+Cloud-Native Configuration Management by GitOps. 2020.
+\urlprefix\biburl{https://medium.com/trendyol-tech/cloud-native-configuration-management-by-gitops-6-2401bf47418}
+
+\bibitem{redhat-what-cm}
+What is configuration management. 2019.
+\urlprefix\biburl{https://www.redhat.com/en/topics/automation/what-is-configuration-management}
+
+\bibitem{atlassian-why-cm-imp}
+Why is configuration management important?
+\urlprefix\biburl{https://www.atlassian.com/continuous-delivery/principles/configuration-management}
+
+\bibitem{upguard-cm-cost}
+What Is Configuration Management and Why Is It Important? 2022.
+\urlprefix\biburl{https://www.upguard.com/blog/5-configuration-management-boss}
+
+\bibitem{microservices-io}
+Microservice Architecture.
+\urlprefix\biburl{https://microservices.io/index.html}
+
+\bibitem{wiki-poc}
+Proof of concept.
+\urlprefix\biburl{https://en.wikipedia.org/wiki/Proof_of_concept}
+
+\bibitem{best-practices-by-sun}
+Sun Services: \emph{BEST-PRACTICE RECOMMENDATIONSCONFIGURATION MANAGEMENT}.
+  2007.
 
 \end{thebibliography}

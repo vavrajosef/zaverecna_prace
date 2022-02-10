@@ -1,0 +1,27 @@
+\changetocdepth {3}
+\babel@toc {czech}{}\relax 
+\babel@toc {czech}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {czech}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {czech}{}\relax 
+\contentsline {chapter}{{\' U}vod}{1}{chapter*.8}%
+\contentsline {chapter}{\chapternumberline {1}Nějaká kapitola}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Nějaká sekce}{3}{section.1.1}%
+\contentsline {chapter}{\chapternumberline {2}Další kapitola}{5}{chapter.2}%
+\contentsline {chapter}{Z{\' a}v{\v e}r}{7}{chapter*.9}%
+\contentsline {chapter}{Literatura}{9}{chapter*.10}%
+\contentsline {appendix}{\chapternumberline {A}Seznam použitých zkratek}{11}{appendix.A}%
+\contentsline {appendix}{\chapternumberline {B}Návod k~použití této šablony}{13}{appendix.B}%
+\contentsline {section}{\numberline {B.1}Výběr základu}{13}{section.B.1}%
+\contentsline {section}{\numberline {B.2}Použití šablony}{14}{section.B.2}%
+\contentsline {subsection}{\numberline {B.2.1}Typografie}{14}{subsection.B.2.1}%
+\contentsline {subsection}{\numberline {B.2.2}Obrázky}{14}{subsection.B.2.2}%
+\contentsline {subsubsection}{\numberline {B.2.2.1}Formáty grafiky}{15}{subsubsection.B.2.2.1}%
+\contentsline {subsubsection}{\numberline {B.2.2.2}Získání vhodného formátu}{15}{subsubsection.B.2.2.2}%
+\contentsline {subsubsection}{\numberline {B.2.2.3}Plovoucí prostředí}{15}{subsubsection.B.2.2.3}%
+\contentsline {subsubsection}{\numberline {B.2.2.4}Verze obrázků}{16}{subsubsection.B.2.2.4}%
+\contentsline {subsection}{\numberline {B.2.3}Tabulky}{17}{subsection.B.2.3}%
+\contentsline {subsection}{\numberline {B.2.4}Literatura}{17}{subsection.B.2.4}%
+\contentsline {subsection}{\numberline {B.2.5}Sazba URL}{18}{subsection.B.2.5}%
+\contentsline {appendix}{\chapternumberline {C}Obsah přiloženého CD}{19}{appendix.C}%

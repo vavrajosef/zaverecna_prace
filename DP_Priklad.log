@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2021.12.13)  10 FEB 2022 16:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2021.12.13)  10 FEB 2022 02:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./Sablona_BP_Windows-1250.tex
-(Sablona_BP_Windows-1250.tex
+**./DP_Priklad.tex
+(DP_Priklad.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-11-22> (FITthesis.cls
 Document Class: FITthesis 2019/12/23 CTU FIT standard class for theses
@@ -604,10 +604,7 @@ Sidefootvsep and sidefootheight: 13.6pt and 594.32022pt
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks24
 \inpenc@posthook=\toks25
-
-(D:\Programs\miktex\tex/latex/base\cp1250.def
-File: cp1250.def 2021/02/14 v1.3d Input encoding file
-))
+)
 (D:\Programs\miktex\tex/latex/dirtree\dirtree.sty
 Package: dirtree 2012/12/11 v0.32 package wrapper for dirtree
 
@@ -630,38 +627,36 @@ Package: dirtree 2012/12/11 v0.32 package wrapper for dirtree
 )
 File: dirtree.tex 2012/12/11 v0.32 `dirtree' (jcc)
 )
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 5
-0.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4
+2.
  (D:\Programs\miktex\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) (D:\Programs\miktex\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count325
 \l__pdf_internal_box=\box52
-)
-(Sablona_BP_Windows-1250.aux)
-\openout1 = `Sablona_BP_Windows-1250.aux'.
+) (DP_Priklad.aux)
+\openout1 = `DP_Priklad.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-Package hyperref Info: Link coloring OFF on input line 50.
-
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+Package hyperref Info: Link coloring OFF on input line 42.
 (D:\Programs\miktex\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -675,15 +670,15 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 50.
-LaTeX Info: Redefining \ref on input line 50.
-LaTeX Info: Redefining \pageref on input line 50.
-LaTeX Info: Redefining \nameref on input line 50.
-(Sablona_BP_Windows-1250.out) (Sablona_BP_Windows-1250.out)
+LaTeX Info: Redefining \nameref on input line 42.
+LaTeX Info: Redefining \ref on input line 42.
+LaTeX Info: Redefining \pageref on input line 42.
+LaTeX Info: Redefining \nameref on input line 42.
+(DP_Priklad.out) (DP_Priklad.out)
 \@outlinefile=\write4
-\openout4 = `Sablona_BP_Windows-1250.out'.
+\openout4 = `DP_Priklad.out'.
 
-LaTeX Info: Redefining \dots on input line 50.
+LaTeX Info: Redefining \dots on input line 42.
 
 (D:\Programs\miktex\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -710,10 +705,10 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 {C:/Users/vavra/AppData/Local/MiKTeX/2.9/fonts/map/pdftex/pdftex.map}] [2
 
 ]
-<cvut-logo-bw.pdf, id=49, 554.07pt x 193.29715pt>
+<cvut-logo-bw.pdf, id=93, 554.07pt x 193.29715pt>
 File: cvut-logo-bw.pdf Graphic file (type pdf)
 <use cvut-logo-bw.pdf>
-Package pdftex.def Info: cvut-logo-bw.pdf  used on input line 50.
+Package pdftex.def Info: cvut-logo-bw.pdf  used on input line 42.
 (pdftex.def)             Requested size: 184.5pt x 64.36635pt.
  [1
 
@@ -722,16 +717,16 @@ Package pdftex.def Info: cvut-logo-bw.pdf  used on input line 50.
 ]
 
 LaTeX Font Warning: Font shape `OT1/lmr/bx/sc' undefined
-(Font)              using `OT1/lmr/bx/n' instead on input line 50.
+(Font)              using `OT1/lmr/bx/n' instead on input line 42.
 
 LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 
-50.
+42.
 (D:\Programs\miktex\tex/latex/lm\ot1lmss.fd
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 
 LaTeX Font Warning: Font shape `OT1/lmss/bx/sc' undefined
-(Font)              using `OT1/lmss/bx/n' instead on input line 50.
+(Font)              using `OT1/lmss/bx/n' instead on input line 42.
 
 [3
 
@@ -744,232 +739,213 @@ LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 6
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ))
 [5]
-Overfull \hbox (2.79207pt too wide) in paragraph at lines 50--50
+Overfull \hbox (2.79207pt too wide) in paragraph at lines 42--42
 \OT1/lmr/m/it/10.95 v Praze, Fa-kulte in-formacnch tech-no-logi. Prace j
 e chranena pravnmi predpisy
  []
 
 
-Overfull \hbox (2.75731pt too wide) in paragraph at lines 50--50
+Overfull \hbox (2.75731pt too wide) in paragraph at lines 42--42
 \OT1/lmr/m/it/10.95 a me-zinarodnmi umluvami o pravu au-torskem a pravec
 h sou-vi-sejcch s pravem
  []
 
-[6
-
-]
-Overfull \hbox (10.91309pt too wide) in paragraph at lines 50--50
-[]\OT1/lmr/bx/n/10.95 Keywords \OT1/lmr/m/n/10.95 Nahrad[]te sez-namem klcov
-ych slov v an-glictine oddelenych carkou.[] 
- []
-
-[7
-
-] [8
-
-] (Sablona_BP_Windows-1250.toc
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 8
-.
- (D:\Programs\miktex\tex/latex/lm\omllmm.fd
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4
+2.
+(D:\Programs\miktex\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-8.
- (D:\Programs\miktex\tex/latex/lm\omslmsy.fd
+42.
+
+(D:\Programs\miktex\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-8.
+42.
 
 (D:\Programs\miktex\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 8.
+(Font)              <10.95> on input line 42.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 8.
+(Font)              <8> on input line 42.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 8.
-) [9] [10
+(Font)              <6> on input line 42.
+LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 
+42.
+
+(D:\Programs\miktex\tex/latex/lm\ot1lmtt.fd
+File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [6
+
+] [7
+
+] [8
+
+] (DP_Priklad.toc)
+[9] [10
+
+] (DP_Priklad.lof) [11] [12
+
+] (DP_Priklad.lot) [13] [14
 
 ]
-(Sablona_BP_Windows-1250.lof) [11] [12
-
-]
-Overfull \hbox (3.02655pt too wide) in paragraph at lines 59--60
-\OT1/lmr/m/n/10.95 nezadouc. Jedna se o porusen twelve-factor me-to-dik
-y. Tato me-to-dika vyzaduje
- []
-
-
-Overfull \hbox (5.12521pt too wide) in paragraph at lines 59--60
-\OT1/lmr/m/n/10.95 oddelen kon-fi-gu-race od kodu. I kdyz kod zustava 
-stejny, kon-fi-gu-race se vetsinou
- []
-
-
-Overfull \hbox (1.47499pt too wide) in paragraph at lines 63--64
-\OT1/lmr/m/n/10.95 problemu a roz-hod-nout ktere ukony maj pri-o-ritu. Va-
-li-dace spravneho vysledku
- []
-
-
-Underfull \vbox (badness 1776) has occurred while \output is active []
-
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.66 
-      [1
-
+l.48 \chapter
+             {Nějaká kapitola} [1
 
 ]
-
-Class memoir Warning: The material used in the headers is too large
-(14.68782pt) for the given head height (13.6pt), it is recommended to
-either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 73.
-
-
-Overfull \vbox (1.08781pt too high) has occurred while \output is active []
-
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.73 \chapter
-             {Best practices konfigura�n�ho managementu v cloud native prost...
-[2]
-Overfull \hbox (5.66878pt too wide) in paragraph at lines 75--76
-\OT1/lmr/m/n/10.95 COM-MEN-DATI-ONS CON-FI-GU-RATION MA-NAGE-MENT od Sun Servic
-es[[]]
- []
+l.48 \chapter
+             {Nějaká kapitola} [2
 
-
-Overfull \hbox (12.06024pt too wide) in paragraph at lines 75--76
-\OT1/lmr/m/n/10.95 jsou jednemi z hlavnch do-porucen tyto: udrzovan k
-on-t-roly, Sle-dovan spravnych
- []
-
-[3
-
-] [4
+] [3] [4
 
 ] [5] [6
 
-] [7] [8
-
-] [9] [10
-
-] (Sablona_BP_Windows-1250.bbl [11] [12
+] (DP_Priklad.bbl [7]
+[8
 
 ]
 bibitemlist
-LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 
-13.
-(D:\Programs\miktex\tex/latex/lm\ot1lmtt.fd
-File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-Underfull \hbox (badness 10000) in paragraph at lines 16--18
-[]$\OT1/lmtt/m/n/10.95 https : / / medium\OML/lmm/m/it/10.95 :\OT1/lmtt/m/n/10.
-95 com / trendyol -[] tech / cloud -[] native -[] configuration -[]
- []
+) [9] [10
 
-
-Underfull \hbox (badness 7064) in paragraph at lines 20--22
-[]\OT1/lmr/m/n/10.95 What is con-fi-gu-ration ma-nage-ment. 2019. Do-stupne z:
- []$\OT1/lmtt/m/n/10.95 https :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--22
-\OT1/lmtt/m/n/10.95 / / www\OML/lmm/m/it/10.95 :\OT1/lmtt/m/n/10.95 redhat\OML/
-lmm/m/it/10.95 :\OT1/lmtt/m/n/10.95 com / en / topics / automation / what -[] i
-s -[] configuration -[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--26
-[]\OT1/lmr/m/n/10.95 Why is con-fi-gu-ration ma-nage-ment im-por-tant? Do-stupn
-e z:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--26
-[]$\OT1/lmtt/m/n/10.95 https : / / www\OML/lmm/m/it/10.95 :\OT1/lmtt/m/n/10.95 
-atlassian\OML/lmm/m/it/10.95 :\OT1/lmtt/m/n/10.95 com / continuous -[] delivery
- / principles /
- []
-
-
-Underfull \hbox (badness 3803) in paragraph at lines 28--30
-[]\OT1/lmr/m/n/10.95 What Is Con-fi-gu-ration Ma-nage-ment and Why Is It Im-por
--tant?
- []
-
-
-Underfull \hbox (badness 2197) in paragraph at lines 32--34
-[]\OT1/lmr/m/n/10.95 Microservice Ar-chi-tecture. Do-stupne z: []$\OT1/lmtt/m/
-n/10.95 https : / / microservices\OML/lmm/m/it/10.95 :\OT1/lmtt/m/n/10.95 io /
- []
-
-
-Underfull \hbox (badness 3240) in paragraph at lines 40--42
-[]\OT1/lmr/m/n/10.95 Sun Ser-vi-ces: \OT1/lmr/m/it/10.95 BEST-PRACTICE RE-COM-M
-EN-DATI-ON-SCON-FI-GU-
- []
-
-) [13] [14
-
-] [15] [16
+] [11] [12
 
 ]
+Overfull \hbox (0.31975pt too wide) in paragraph at lines 87--88
+\OT1/lmr/m/n/10.95 Vyberte si sablonu podle druhu prace (ba-kalarska, di-p
+lo-mova), ja-zyka (cestina,
+ []
 
-Class memoir Warning: The material used in the headers is too large
-(14.68782pt) for the given head height (13.6pt), it is recommended to
-either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 235.
 
-[17]
+Overfull \hbox (42.44543pt too wide) in paragraph at lines 87--88
+\OT1/lmr/m/n/10.95 an-glictina) a kodovan (AS-CII, [], [] ne-boli la-tin2 
+a nebo []). 
+ []
+
+
+Overfull \hbox (5.97719pt too wide) in paragraph at lines 102--103
+\OT1/lmr/m/n/10.95 chcete pro psan prace pouzt -- po-kud muzete texty s
+ di-a-kri-ti-kou normalne
+ []
+
+[13]
+Overfull \hbox (20.24254pt too wide) in paragraph at lines 129--130
+\OT1/lmr/m/n/10.95 (na konci radku) nebo je-jich spo-jovan nebo v ramci s
+lozenin pouzvejte rozdelovnk
+ []
+
+
+Overfull \hbox (10.87444pt too wide) in paragraph at lines 135--136
+\OT1/lmr/m/n/10.95 vlozen se pro-vede prkazem [][]\OT1/lmtt/m/n/10.95 \in
+cludegraphics[]\OT1/lmr/m/n/10.95 . Takto je mozne vkladat obrazky
+ []
+
+[14]
+Overfull \hbox (4.21281pt too wide) in paragraph at lines 139--140
+\OT1/lmr/m/n/10.95 Z hle-diska re-pre-zen-tace ob-ra-zovych in-for-mac exis-
+tuje delen gra-fickych formatu
+ []
+
+
+Overfull \hbox (1.68718pt too wide) in paragraph at lines 141--142
+\OT1/lmr/m/n/10.95 formatu a narokum na vzhled (zejmena) vytistene pra
+ce durazne do-porucujeme
+ []
+
+File: cvut-logo-bw.pdf Graphic file (type pdf)
+<use cvut-logo-bw.pdf>
+Package pdftex.def Info: cvut-logo-bw.pdf  used on input line 152.
+(pdftex.def)             Requested size: 184.5pt x 64.36635pt.
+
+Underfull \vbox (badness 1817) has occurred while \output is active []
+
+ [15]
+Overfull \hbox (13.25859pt too wide) in paragraph at lines 161--162
+[]\OT1/lmr/m/n/10.95 Mate-li naprklad graf vy-tvoreny v pro-gramu Gnuplot
+, muzete jeho cernoblou
+ []
+
+
+Overfull \hbox (25.99086pt too wide) in paragraph at lines 161--162
+\OT1/lmr/m/n/10.95 va-ri-antu (viz obr. []B.2[]) vy-tvorit pa-ra-me-t-rem [][]
+\OT1/lmtt/m/n/10.95 monochrome dashed []\OT1/lmr/m/n/10.95 prkazu [][]\OT1/l
+mtt/m/n/10.95 set term[]\OT1/lmr/m/n/10.95 .
+ []
+
+<gnuplot-bw.pdf, id=277, 361.35pt x 216.81pt>
+File: gnuplot-bw.pdf Graphic file (type pdf)
+<use gnuplot-bw.pdf>
+Package pdftex.def Info: gnuplot-bw.pdf  used on input line 164.
+(pdftex.def)             Requested size: 361.34912pt x 216.80946pt.
+<gnuplot-col.pdf, id=278, 361.35pt x 216.81pt>
+File: gnuplot-col.pdf Graphic file (type pdf)
+<use gnuplot-col.pdf>
+Package pdftex.def Info: gnuplot-col.pdf  used on input line 169.
+(pdftex.def)             Requested size: 361.34912pt x 216.80946pt.
+
+Overfull \hbox (0.92827pt too wide) in paragraph at lines 176--177
+\OT1/lmr/m/n/10.95 Tabulky lze zadavat ruzne, napr. v prostred [][]\OT1/
+lmtt/m/n/10.95 tabular[]\OT1/lmr/m/n/10.95 , avsak pro je-jich vkladan
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16 <./gnuplot-bw.pdf>]
+Underfull \vbox (badness 5302) has occurred while \output is active []
+
+ [17 <./gnuplot-col.pdf>] [18] [19
+
+]
 \tf@toc=\write5
-\openout5 = `Sablona_BP_Windows-1250.toc'.
+\openout5 = `DP_Priklad.toc'.
 
 \tf@lof=\write6
-\openout6 = `Sablona_BP_Windows-1250.lof'.
+\openout6 = `DP_Priklad.lof'.
 
- (Sablona_BP_Windows-1250.aux)
+\tf@lot=\write7
+\openout7 = `DP_Priklad.lot'.
+
+ (DP_Priklad.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `Sablona_BP_Windows-1250.out' has not changed
-.
-(rerunfilecheck)             Checksum: D302C92FA181A69248FFEA8CD9BD6EE3;1292.
+Package rerunfilecheck Info: File `DP_Priklad.out' has not changed.
+(rerunfilecheck)             Checksum: BE916AFEC7EBB21787F85D70BDE85FB4;2648.
  ) 
 Here is how much of TeX's memory you used:
- 13099 strings out of 479000
- 192998 string characters out of 2864784
- 562474 words of memory out of 3000000
- 30602 multiletter control sequences out of 15000+600000
+ 13152 strings out of 479000
+ 193379 string characters out of 2864784
+ 564438 words of memory out of 3000000
+ 30637 multiletter control sequences out of 15000+600000
  458685 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,11n,80p,1358b,418s stack positions out of 5000i,500n,10000p,200000b,80000s
-{D:/Programs/miktex/fonts/enc/dvips/lm/lm-rm.enc}{D:/Programs/miktex/fonts/en
-c/dvips/lm/lm-mathit.enc}{D:/Programs/miktex/fonts/enc/dvips/lm/lm-rmtt.enc}{D:
-/Programs/miktex/fonts/enc/dvips/lm/lm-rmsc.enc}{D:/Programs/miktex/fonts/enc/d
-vips/lm/lm-ts1.enc}<D:/Programs/miktex/fonts/type1/public/lm/lmbx10.pfb><D:/Pro
-grams/miktex/fonts/type1/public/lm/lmbx12.pfb><D:/Programs/miktex/fonts/type1/p
-ublic/lm/lmbxi10.pfb><D:/Programs/miktex/fonts/type1/public/lm/lmcsc10.pfb><D:/
-Programs/miktex/fonts/type1/public/lm/lmmi10.pfb><D:/Programs/miktex/fonts/type
-1/public/lm/lmr10.pfb><D:/Programs/miktex/fonts/type1/public/lm/lmr12.pfb><D:/P
-rograms/miktex/fonts/type1/public/lm/lmr8.pfb><D:/Programs/miktex/fonts/type1/p
-ublic/lm/lmri10.pfb><D:/Programs/miktex/fonts/type1/public/lm/lmssbx10.pfb><D:/
-Programs/miktex/fonts/type1/public/lm/lmtt10.pfb>
-Output written on Sablona_BP_Windows-1250.pdf (31 pages, 294294 bytes).
+ 73i,11n,80p,1345b,387s stack positions out of 5000i,500n,10000p,200000b,80000s
+{D:/Programs/miktex/fonts/enc/dvips/lm/lm-rmsc.enc}{D:/Programs/miktex/fonts/
+enc/dvips/lm/lm-rm.enc}{D:/Programs/miktex/fonts/enc/dvips/lm/lm-mathit.enc}{D:
+/Programs/miktex/fonts/enc/dvips/lm/lm-rmtt.enc}{D:/Programs/miktex/fonts/enc/d
+vips/lm/lm-mathsy.enc}{D:/Programs/miktex/fonts/enc/dvips/lm/lm-ts1.enc}<D:/Pro
+grams/miktex/fonts/type1/public/lm/lmbx10.pfb><D:/Programs/miktex/fonts/type1/p
+ublic/lm/lmbx12.pfb><D:/Programs/miktex/fonts/type1/public/lm/lmbxi10.pfb><D:/P
+rograms/miktex/fonts/type1/public/lm/lmcsc10.pfb><D:/Programs/miktex/fonts/type
+1/public/lm/lmmi10.pfb><D:/Programs/miktex/fonts/type1/public/lm/lmr10.pfb><D:/
+Programs/miktex/fonts/type1/public/lm/lmr12.pfb><D:/Programs/miktex/fonts/type1
+/public/lm/lmr8.pfb><D:/Programs/miktex/fonts/type1/public/lm/lmri10.pfb><D:/Pr
+ograms/miktex/fonts/type1/public/lm/lmssbx10.pfb><D:/Programs/miktex/fonts/type
+1/public/lm/lmsy10.pfb><D:/Programs/miktex/fonts/type1/public/lm/lmtt10.pfb>
+Output written on DP_Priklad.pdf (35 pages, 339107 bytes).
 PDF statistics:
- 284 PDF objects out of 1000 (max. 8388607)
- 53 named destinations out of 1000 (max. 500000)
- 78 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 377 PDF objects out of 1000 (max. 8388607)
+ 71 named destinations out of 1000 (max. 500000)
+ 176 words of extra memory for PDF output out of 10000 (max. 10000000)
 

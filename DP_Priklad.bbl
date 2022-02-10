@@ -1,0 +1,29 @@
+\begin{thebibliography}{1}
+\providecommand{\biburl}[1]{\url{#1}}
+\providecommand{\urlprefix}{Dostupn{\' e} z: }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\selectlanguage}[1]{\relax}
+\providecommand{\eprint}[2][]{\biburl{#2}}
+
+\bibitem{rybicka}
+Rybi{\v c}ka, J.: \emph{LaTeX pro za\v c\'ate\v cn\'\i{}ky}. Brno: Konvoj, t\v
+  ret\'\i{} vyd\'an\'\i{}, ISBN 80-7302-049-1.
+
+\bibitem{kobltypo}
+Ko{\v c}i{\v c}ka, P.; Bla{\v z}ek, F.: \emph{Praktick{\' a} typografie}. Brno:
+  Computer Press, 2004.
+
+\bibitem{svgspec}
+WWW Consorcium: \emph{Scalable Vector Graphics (SVG) 1.1 Specification
+  {[online]}}. [cit. 2011-07-07].
+\urlprefix\biburl{http://www.w3.org/TR/2003/REC-SVG11-20030114/}
+
+\bibitem{iso690}
+\'U\v rad pro technickou normalizaci, metrologii a st\'atn\'\i{} zku\v
+  sebnictv\'\i{}: \emph{\v CSN ISO 690 Informace a dokumentace -- Pravidla pro
+  bibliografick\'e odkazy a citace informa\v cn\'\i{}ch zdroj{\r u}}. 2011.
+
+\end{thebibliography}

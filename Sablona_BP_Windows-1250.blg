@@ -3,49 +3,72 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Sablona_BP_Windows-1250.aux
 Reallocating 'name_of_file' (item size: 1) to 7 items.
 The style file: csn690.bst
-Reallocating 'name_of_file' (item size: 1) to 19 items.
-I found no \citation commands---while reading file Sablona_BP_Windows-1250.aux
-Database file #1: mybibliographyfile.bib
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+Database file #1: cm_bibliography.bib
 Reallocating 'wiz_functions' (item size: 4) to 6000 items.
-You've used 0 entries,
+Warning--to sort, need author or key in 12-factor-config
+Warning--to sort, need author or key in uvod-do-gitops
+Warning--to sort, need author or key in redhat-what-cm
+Warning--to sort, need author or key in atlassian-why-cm-imp
+Warning--to sort, need author or key in upguard-cm-cost
+Warning--to sort, need author or key in microservices-io
+Warning--to sort, need author or key in wiki-poc
+Warning--empty author in 12-factor-config
+Warning--empty journal in 12-factor-config
+Warning--empty author in uvod-do-gitops
+Warning--empty journal in uvod-do-gitops
+Warning--empty author in redhat-what-cm
+Warning--empty journal in redhat-what-cm
+Warning--empty author in atlassian-why-cm-imp
+Warning--empty journal in atlassian-why-cm-imp
+Warning--empty year in atlassian-why-cm-imp
+Warning--empty author in upguard-cm-cost
+Warning--empty journal in upguard-cm-cost
+Warning--empty author in microservices-io
+Warning--empty journal in microservices-io
+Warning--empty year in microservices-io
+Warning--empty author in wiki-poc
+Warning--empty journal in wiki-poc
+Warning--empty year in wiki-poc
+You've used 8 entries,
             3185 wiz_defined-function locations,
-            652 strings with 5498 characters,
-and the built_in function-call counts, 32 in all, are:
-= -- 0
-> -- 0
+            682 strings with 6374 characters,
+and the built_in function-call counts, 2125 in all, are:
+= -- 115
+> -- 8
 < -- 0
-+ -- 0
++ -- 9
 - -- 0
-* -- 2
-:= -- 7
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
+* -- 130
+:= -- 172
+add.period$ -- 13
+call.type$ -- 8
+change.case$ -- 17
 chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
+cite$ -- 32
+duplicate$ -- 264
+empty$ -- 260
 format.name$ -- 0
-if$ -- 1
+if$ -- 445
 int.to.chr$ -- 0
-int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 10
+int.to.str$ -- 8
+missing$ -- 62
+newline$ -- 41
 num.names$ -- 0
-pop$ -- 0
+pop$ -- 177
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 17
 quote$ -- 0
-skip$ -- 1
+skip$ -- 99
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
+substring$ -- 42
+swap$ -- 78
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
-warning$ -- 0
+type$ -- 32
+warning$ -- 24
 while$ -- 0
-width$ -- 0
-write$ -- 9
-(There was 1 error message)
+width$ -- 9
+write$ -- 62
+(There were 24 warnings)

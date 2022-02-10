@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2021.12.13)  10 FEB 2022 16:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2021.12.13)  10 FEB 2022 21:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -854,11 +854,29 @@ Overfull \hbox (12.06024pt too wide) in paragraph at lines 75--76
 on-t-roly, Sle-dovan spravnych
  []
 
-[3
 
-] [4
+LaTeX Warning: Citation `book-cm-best-prac-book' on page 3 undefined on input l
+ine 83.
 
-] [5] [6
+
+Underfull \vbox (badness 1092) has occurred while \output is active []
+
+ [3
+
+]
+
+Class memoir Warning: The material used in the headers is too large
+(27.2pt) for the given head height (13.6pt), it is recommended to
+either increase the head height or redesign the header
+(in both cases you will find help in the memoir manual). on input line 88.
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+
+[4] [5
+
+] [6
 
 ] [7] [8
 
@@ -922,6 +940,24 @@ Underfull \hbox (badness 3240) in paragraph at lines 40--42
 EN-DATI-ON-SCON-FI-GU-
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
+[]\OT1/lmr/m/n/10.95 Configuration Ma-nage-ment Work-flows. Do-stupne z: []$\O
+T1/lmtt/m/n/10.95 https : / /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
+\OT1/lmtt/m/n/10.95 docs\OML/lmm/m/it/10.95 :\OT1/lmtt/m/n/10.95 microfocus\OML
+/lmm/m/it/10.95 :\OT1/lmtt/m/n/10.95 com / SM / 9\OML/lmm/m/it/10.95 :\OT1/lmtt
+/m/n/10.95 61 / Hybrid / Content / BestPracticesGuide _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
+\OT1/lmtt/m/n/10.95 PD / ConfigurationManagementBestPractice / Configuration _
+ []
+
 ) [13] [14
 
 ] [15] [16
@@ -929,9 +965,9 @@ EN-DATI-ON-SCON-FI-GU-
 ]
 
 Class memoir Warning: The material used in the headers is too large
-(14.68782pt) for the given head height (13.6pt), it is recommended to
+(27.2pt) for the given head height (13.6pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 235.
+(in both cases you will find help in the memoir manual). on input line 234.
 
 [17]
 \tf@toc=\write5
@@ -944,15 +980,18 @@ either increase the head height or redesign the header
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `Sablona_BP_Windows-1250.out' has not changed
 .
 (rerunfilecheck)             Checksum: D302C92FA181A69248FFEA8CD9BD6EE3;1292.
  ) 
 Here is how much of TeX's memory you used:
- 13099 strings out of 479000
- 192998 string characters out of 2864784
- 562474 words of memory out of 3000000
- 30602 multiletter control sequences out of 15000+600000
+ 13101 strings out of 479000
+ 193043 string characters out of 2864784
+ 562515 words of memory out of 3000000
+ 30603 multiletter control sequences out of 15000+600000
  458685 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,11n,80p,1358b,418s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -967,9 +1006,9 @@ Programs/miktex/fonts/type1/public/lm/lmmi10.pfb><D:/Programs/miktex/fonts/type
 rograms/miktex/fonts/type1/public/lm/lmr8.pfb><D:/Programs/miktex/fonts/type1/p
 ublic/lm/lmri10.pfb><D:/Programs/miktex/fonts/type1/public/lm/lmssbx10.pfb><D:/
 Programs/miktex/fonts/type1/public/lm/lmtt10.pfb>
-Output written on Sablona_BP_Windows-1250.pdf (31 pages, 294294 bytes).
+Output written on Sablona_BP_Windows-1250.pdf (31 pages, 302469 bytes).
 PDF statistics:
- 284 PDF objects out of 1000 (max. 8388607)
- 53 named destinations out of 1000 (max. 500000)
+ 290 PDF objects out of 1000 (max. 8388607)
+ 54 named destinations out of 1000 (max. 500000)
  78 words of extra memory for PDF output out of 10000 (max. 10000000)
 
